@@ -1,0 +1,5 @@
+myenv
+token_authentication/token_authentication/__pycache__/*.pyc
+token_authentication/__pycache__/*.pyc
+token_authentication/api/__pycache__/*.pyc
+token_authentication/api/migrations/__pycache__/*.pyc
