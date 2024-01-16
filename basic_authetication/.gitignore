@@ -1,0 +1,4 @@
+/myenv
+viewset_api/__pycache__/*.pyc
+basic_authetication/__pycache__/*.pyc
+viewset_api/migrations/__pycache__/*.pyc
